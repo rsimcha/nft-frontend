@@ -16,6 +16,7 @@ function App() {
         <Switch> 
           <Route path="/" exact component = {Market} />
           <Route path ="/art" component={Art} />
+          hiiiiiiiiiiiiiiiiiiiii
         </Switch>
       </div>
     </Router>
