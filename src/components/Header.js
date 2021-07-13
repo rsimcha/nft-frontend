@@ -4,8 +4,8 @@ import { Navbar, Row, Col, Nav, Container, Button, Form, NavDropdown, FormContro
 const Header = (props) => (
       
     <div>
-      <Col  md>
-        <h1 class = "headerTitle">
+      <Col  md >
+        <h1 class = "headerTitle" >
              Market page works!
              </h1>
              </Col>
