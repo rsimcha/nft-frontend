@@ -13,11 +13,13 @@ function App() {
     <Router>
       <div className="App">
         <Navigation />
+        <Container fluid = "md">
         <Switch> 
           <Route path="/" exact component = {Market} />
           <Route path ="/art" component={Art} />
-          hiiiiiiiiiiiiiiiiiiiii
+          
         </Switch>
+        </Container>
       </div>
     </Router>
   );

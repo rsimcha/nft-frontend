@@ -4,12 +4,12 @@ import Header from './components/Header';
 
 const Market = (props) => (
     <div>
-        <Container>
+            <Header/>
             <Row>
-             Market page works!
+            market page works
             </Row>
 
-        </Container>
+       
     </div>
     
     );
