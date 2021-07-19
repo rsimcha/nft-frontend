@@ -6,7 +6,7 @@ const Header = (props) => (
     <div>
       <Col  md >
         <h1 class = "headerTitle" >
-             Market page works!
+             MARKET
              </h1>
              </Col>
 

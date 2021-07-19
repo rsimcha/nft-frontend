@@ -16,14 +16,14 @@ const Gallery = (props) => (
         <Art />
         </Col>
     </Row>
-    <Row> 
-        <Col>
+    <Row className = "artCard">  
+        <Col className="artCol" sm={6} md={6} lg={4}>
         <Art />
         </Col>
-        <Col>
+        <Col className="artCol" sm={6} md={6} lg={4}>
         <Art />
         </Col>
-        <Col>
+        <Col className="artCol" sm={6} md={6} lg={4}>
         <Art />
         </Col>
     </Row>
